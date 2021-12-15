@@ -70,13 +70,14 @@
 ➡️ [more blog posts...](https://thecodefactor.blogspot.com)
 
 ---
-
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
+  
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#443](https://github.com/prmr/JetUML/issues/443) in [prmr/JetUML](https://github.com/prmr/JetUML)
 2. ❗️ Opened issue [#443](https://github.com/prmr/JetUML/issues/443) in [prmr/JetUML](https://github.com/prmr/JetUML)
 <!--END_SECTION:activity-->
+
 </details>
 
 <details>
