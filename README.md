@@ -52,6 +52,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [03. Basics of graphics - &quot;graphics.h&quot; library, C++](https://thecodefactor.blogspot.com/2020/09/03-basics-of-graphics-graphicsh-library.html)
+- [03. Basics of graphics - &quot;graphics.h&quot; library, C++](https://thecodefactor.blogspot.com/2020/09/03-basics-of-graphics-graphicsh-library.html)
+- [02. How to setup graphics.h in CodeBlocks?](https://thecodefactor.blogspot.com/2020/05/02-how-to-setup-graphicsh-in-codeblocks.html)
+- [02. How to setup graphics.h in CodeBlocks?](https://thecodefactor.blogspot.com/2020/05/02-how-to-setup-graphicsh-in-codeblocks.html)
+- [01. Introduction to graphics tutorial series](https://thecodefactor.blogspot.com/2020/05/01-introduction-to-graphics-tutorial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://thecodefactor.blogspot.com)
