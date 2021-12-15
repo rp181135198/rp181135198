@@ -14,4 +14,4 @@ jobs:
       - name: Pull in The Code Factor posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "http://feeds.feedburner.com/TheCodeFactor,https://thecodefactor.blogspot.com/feeds/posts/default?alt=rss"
+          feed_list: "https://thecodefactor.blogspot.com/feeds/posts/default?alt=rss"
