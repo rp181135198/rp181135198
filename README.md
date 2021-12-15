@@ -44,6 +44,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to setup graphics.h in VS Code | CodeWar](https://www.youtube.com/watch?v=J0_vt-7Ok6U)
+- [08. Drawing Circular Arc using graphics.h | CodeWar](https://www.youtube.com/watch?v=5zkemzLxrrY)
+- [How to setup graphics.h in Dev C++ | CodeWar](https://www.youtube.com/watch?v=CHFyEnlMnxg)
+- [Happy Diwali - C++ program | CodeWar #shorts #DiwaliShotOnShorts](https://www.youtube.com/watch?v=kXWgImlgoyE)
+- [02. [New] How to setup graphics.h in CodeBlocks v20.03 | CodeWar](https://www.youtube.com/watch?v=VEkAj-xVTKQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/c/codewar)
